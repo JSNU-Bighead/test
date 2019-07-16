@@ -1,1 +1,1 @@
-just test -dev
+just test -master
